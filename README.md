@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
 ![p](/github-header-image%20(1).png)
+=======
+![p](https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38934.jpg)
+>>>>>>> 87c48280be4e88056df049a34e53ea1d08e3226a
